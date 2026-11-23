@@ -1,0 +1,33 @@
+[
+    {
+        "profileImage": "img/pfp/alastor.jpeg",
+        "name": "Neptune (DJ)",
+        "socials": [
+            {"name": "GitHub", "url": "https://github.com/TheDJGamerYT", "icon": "img/icon/commit.svg"},
+            {"name": "Email", "url": "mailto:yourfriendthedj@tamastudios.us", "icon": "img/icon/mail.svg"}
+        ],
+        "quote": "Codiak says we're \"ethically sourced, free ranged developers.\" He's lying.",
+        "color": "9C1A04",
+        "role": "Secondary Dev & Head IT dude"
+    },
+    {
+        "profileImage": "img/logo.png",
+        "name": "Codiak",
+        "socials": [
+            {"name": "GitHub", "url": "https://github.com/Codiak540", "icon": "img/icon/commit.svg"},
+            {"name": "Youtube", "url": "https://www.youtube.com/@CodiakASEOHA", "icon": "img/icon/play.svg"},
+            {"name": "Email", "url": "mailto:codiak540@tamastudios.us", "icon": "img/icon/mail.svg"}
+        ],
+        "quote": "[In reply to: \"prevents stupid people\"]\nI'm stupid people. it prevents me.",
+        "role": "Lead developer & artist"
+    },
+    {
+        "profileImage": "img/logo.png",
+        "name": "Nivus Pernix \"Niv\"",
+        "socials": [
+            {"name": "Website", "url": "https://rapidradiance.github.io/Website/", "icon": "img/icon/wireless.svg"}
+        ],
+        "quote": "Actually.. Claude, explain what all that shit means",
+        "role": "2D & 3D artist"
+    }
+]
